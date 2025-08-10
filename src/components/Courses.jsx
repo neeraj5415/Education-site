@@ -1,7 +1,7 @@
-import img1 from '../assets/Images/Course1.png';
-import img2 from '../assets/Images/Course2.png';
-import img3 from '../assets/Images/Course3.png';
-import img4 from '../assets/Images/Course4.png';
+import img1 from '../assets/Images/course1.png';
+import img2 from '../assets/Images/course2.png';
+import img3 from '../assets/Images/course3.png';
+import img4 from '../assets/Images/course4.png';
 import logo from '../assets/Images/logo.png';
 
 const dummyItems = [
